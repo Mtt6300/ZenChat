@@ -1,0 +1,16 @@
+{
+    "mainServer": {
+        "host": "",
+        "port": ":2323",
+        "enabled": true
+    },
+    "gpServer": {
+        "GroupName":"Localhost",
+        "Bio":"Pls dont SPAM and be Friendly with us :D",
+	"Admin":"Admin",
+        "host": "",
+        "port": ":3232",
+        "info":"",
+        "enabled": true
+    }
+}
